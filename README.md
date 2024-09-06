@@ -1,2 +1,2 @@
-# webite
+# website
 weeb
